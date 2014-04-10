@@ -1,0 +1,644 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://jekyllrb.com/img/logo-2x.png",
+          "type": "Image",
+          "x": 260,
+          "y": 47,
+          "scale": {
+            "x": 1.0120481927710843,
+            "y": 1.0120481927710843,
+            "width": 503.99999999999994,
+            "height": 232.77108433734938
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 722,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Kévin Renella<br></font>",
+          "size": 28,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 920,
+          "y": 722,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">ISIMA<br></font>",
+          "size": 28,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 398,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">An awesome way to build static</font>",
+          "size": 56,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 294,
+          "y": 468,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">websites and blogs</font>",
+          "size": 53,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180,
+      "background": "bg-solid-black"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 307,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Static, why ?!</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">No more database</span><br></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "src": "https://cdn1.iconfinder.com/data/icons/windows-8-metro-style/512/delete_database.png",
+          "type": "Image",
+          "x": 736,
+          "y": 252,
+          "scale": {
+            "x": 0.30859375,
+            "y": 0.30859375,
+            "width": 158,
+            "height": 158
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">No more apache</span><br></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 448,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">No more money waste</span><br></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 111,
+          "y": 619,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<b>Only focus on your content</b>",
+          "size": 68,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 305,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">How it works</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">Ruby scripts</span><br></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">Markdown to HTML</span></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 448,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">HTML Templates</span><br></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "src": "http://magaweb.com.br/blog/wp-content/uploads/2013/11/ruby_logo.png",
+          "type": "Image",
+          "x": 679,
+          "y": 448,
+          "scale": {
+            "x": 0.264321608040201,
+            "y": 0.264321608040201,
+            "width": 263,
+            "height": 263.2643216080402
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": true,
+      "active": true,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 347,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Templates</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/HWYAvuX.png",
+          "type": "Image",
+          "x": 111,
+          "y": 175,
+          "scale": {
+            "x": 1.399650959860384,
+            "y": 1.399650959860384,
+            "width": 802,
+            "height": 510.8726003490401
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 293,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Posts &amp; Pages</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/gI9yzr9.png",
+          "type": "Image",
+          "x": 125,
+          "y": 181,
+          "scale": {
+            "x": 1.2504038772213248,
+            "y": 1.2504038772213248,
+            "width": 774.0000000000001,
+            "height": 491.4087237479807
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 187,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Static, but dynamic :)</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><b>Disqus</b></li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "src": "https://cdn2.iconfinder.com/data/icons/publicons/64/disqus-512.png",
+          "type": "Image",
+          "x": 722,
+          "y": 468,
+          "scale": {
+            "x": 0.541015625,
+            "y": 0.541015625,
+            "width": 277,
+            "height": 277
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 322,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>Comments management</li></ul>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 426,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li>Decoupled architecture</li></ul>",
+          "size": 53,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 170,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">One file configuration</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 380,
+          "y": 210,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<b style=\"line-height: 1em;\">_config.yml</b><br>",
+          "size": 53,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/3DvPRLP.png",
+          "type": "Image",
+          "x": 52,
+          "y": 326,
+          "scale": {
+            "x": 1.4045801526717556,
+            "y": 1.4045801526717556,
+            "width": 919.9999999999999,
+            "height": 375.02290076335873
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "src": "http://jekyllrb.com/img/octojekyll.png",
+          "type": "Image",
+          "x": 182,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 298,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "GitHub pages",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 780,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 379,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">Let's go!</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/tEyA6yD.png",
+          "type": "Image",
+          "x": 122,
+          "y": 209,
+          "scale": {
+            "x": 1.361256544502618,
+            "y": 1.361256544502618,
+            "width": 780.0000000000001,
+            "height": 296.7539267015707
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 479,
+      "y": 179,
+      "background": "bg-solid-black"
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 305,
+        "y": 32,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font face=\"Lato\">How it works</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 170,
+        "y": 214,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">Ruby scripts</span><br></li></ul>",
+        "size": 53,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 170,
+        "y": 329,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">Markdown to HTML</span></li></ul>",
+        "size": 53,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 170,
+        "y": 448,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">HTML Templates</span><br></li></ul>",
+        "size": 53,
+        "selected": false
+      },
+      {
+        "src": "http://magaweb.com.br/blog/wp-content/uploads/2013/11/ruby_logo.png",
+        "type": "Image",
+        "x": 679,
+        "y": 448,
+        "scale": {
+          "x": 0.264321608040201,
+          "y": 0.264321608040201,
+          "width": 263,
+          "height": 263.2643216080402
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 2,
+    "selected": true,
+    "active": true,
+    "x": 479,
+    "y": 179
+  },
+  "fileName": "mr-jekyll",
+  "surface": "bg-surf-grad-black",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 480,
+  "overviewY": 178.5
+}
