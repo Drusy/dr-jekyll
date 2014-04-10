@@ -1,4 +1,6 @@
-dr-jekyll
+Dr-jekyll
 =========
 
-Jekyll slides (impress.js)
+Jekyll presentation based on impress.js
+
+[http://drusy.github.io.dr-jekyll](http://drusy.github.io.dr-jekyll)
